@@ -8,3 +8,7 @@ function resta(){
 function multiplicacion(){
     return 2 * 2;
 }   
+
+function division(){
+    return 10 / 2;
+}   
